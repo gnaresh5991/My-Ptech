@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Online-Cab-Booking-System-master/src"/>
+	<classpathentry kind="lib" path="Online-Cab-Booking-System-master/WebContent/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="Online-Cab-Booking-System-master/WebContent/WEB-INF/lib/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="Online-Cab-Booking-System-master/WebContent/WEB-INF/lib/org.springframework.web.servlet-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="Online-Cab-Booking-System-master/WebContent/WEB-INF/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="Online-Cab-Booking-System-master/WebContent/WEB-INF/lib/spring-2.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
